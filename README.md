@@ -25,36 +25,25 @@ Blending startup agility with enterprise rigor, I shape messy data into structur
 
 ## 🛠 Technical Skills
 
-### 📊 Analytics & BI
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Retool](https://img.shields.io/badge/Retool-000000?style=for-the-badge&logo=retool&logoColor=white)
+![](https://img.shields.io/badge/Analytics-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/BI-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/BI-Looker_Studio-informational?style=flat&logo=googleanalytics&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Retool-informational?style=flat&logo=retool&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Data-Hive-informational?style=flat&logo=apachehive&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Data-BigQuery-informational?style=flat&logo=googlecloud&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Cloud-AWS_(RDS/S3)-informational?style=flat&logo=amazonaws&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Development-REST_APIs-informational?style=flat&logo=fastapi&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Automation-Apps_Script-informational?style=flat&logo=google&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/DevOps-Git-informational?style=flat&logo=git&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/CRM-Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Advanced_Excel-informational?style=flat&logo=microsoftexcel&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Microsoft_Office-informational?style=flat&logo=microsoftoffice&logoColor=white&color=yellow)
 
-### 🐍 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-34A853?style=for-the-badge&logo=google&logoColor=white)
-
-### 🗄 Databases
-![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 🔄 Dev & Automation
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-### 📈 Productivity & Reporting
-![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ## 🚀 Focus Areas
 
@@ -63,11 +52,3 @@ Blending startup agility with enterprise rigor, I shape messy data into structur
 - Data Pipeline Optimization  
 - Business Process Automation  
 - Executive-Level Data Storytelling  
-
----
-
-## 📫 Let’s Connect
-
-- 📧 jlimon323@gmail.com  
-- 💼 https://www.linkedin.com/in/jose-limon-10735095/  
-- 💻 https://github.com/jlimon1  
