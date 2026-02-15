@@ -1,18 +1,10 @@
-[![cover](https://github.com/jlimon1/jlimon1/blob/main/fcover.png)](https://github.com/jlimon1?tab=repositories)
-
 <h1 align="center">Jose U Limon</h1>
-<h3 align="center">Business Data Analyst | Operations & BI Strategist | Analytics & Dashboard Specialist (SQL, Python, Tableau)</h3>
+<h3 align="center">Business Data Analyst | Operations & BI Strategist | Analytics & Dashboard Specialist</h3>
 
 <p align="center">
-  <a href="mailto:jlimon323@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jose-limon-10735095/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/jlimon1">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:jlimon323@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jose-limon-10735095/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/jlimon1"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ## 👋 About Me
